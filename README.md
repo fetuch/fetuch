@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fetuch
-- 👀 I’m interested in frontend and blockchain
+- 👀 I’m interested in frontend(vue, angular), backend(laravel, nest) and blockchain
 - 🌱 I’m ~~currently~~ learning ~~angular~~ constantly
 
 <!---
