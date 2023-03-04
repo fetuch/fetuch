@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fetuch
 - 👀 I’m interested in frontend and blockchain
-- 🌱 I’m currently learning ~~angular~~
+- 🌱 I’m ~~currently~~ constantly learning ~~angular~~ 
 
 <!---
 fetuch/fetuch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
